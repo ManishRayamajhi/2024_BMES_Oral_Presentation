@@ -1,6 +1,9 @@
 
 
-#Linear Regression Model for Predicting Bacterial Concentration
+# Linear Regression Model for Predicting Bacterial Concentration
+
+
+
 This repository contains a Python script to predict bacterial concentration in wastewater samples using a linear regression model. The prediction is based on the colorimetric analysis of the PCTAD-dye copolymer, utilizing data from the Tecan M200 Infinite Series plate reader. The model has been trained, validated, and tested with this data to ensure accuracy and reliability.
 
 Repository Contents
